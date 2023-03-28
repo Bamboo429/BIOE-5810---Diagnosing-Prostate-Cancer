@@ -1,0 +1,13 @@
+opencv-python
+openslide-python
+matplotlib
+torchsummary
+scikit-learn
+albumentations
+segmentation_models_pytorch
+addict
+tensorboard
+transformers
+
+
+
