@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Nov  6 21:30:13 2022
-
+https://github.com/kentaroy47/Kaggle-PANDA-1st-place-solution
 @author: chuhsuanlin
 """
 
